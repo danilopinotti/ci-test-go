@@ -1,0 +1,4 @@
+{
+    "go.toolsManagement.go": "/usr/bin/go",
+    "go.useCodeSnippetsOnFunctionSuggest": true
+}
